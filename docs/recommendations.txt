@@ -1,0 +1,3 @@
+Commercial Bank of Ethiopia: Enhance UI and add features like fingerprint login.
+Bank of Abyssinia: Enhance UI and add features like fingerprint login.
+Dashen Bank: Enhance UI and add features like fingerprint login.
