@@ -6,3 +6,9 @@ bank_names:
   cbe: 'Commercial Bank of Ethiopia'
   boa: 'Bank of Abyssinia'
   dashen: 'Dashen Bank'
+database:
+  user: 'postgres'
+  password: 'Yon24'
+  dbname: 'bank_reviews'
+  host: 'localhost'
+  port: '5432'
