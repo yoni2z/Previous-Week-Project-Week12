@@ -1,8 +1,0 @@
-app_ids:
-  cbe: 'com.combanketh.mobilebanking' 
-  boa: 'com.boa.boaMobileBanking'
-  dashen: 'com.dashen.dashensuperapp'
-bank_names:
-  cbe: 'Commercial Bank of Ethiopia'
-  boa: 'Bank of Abyssinia'
-  dashen: 'Dashen Bank'
